@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-10 23:06:51.448549
+#+PROPERTY: ID KR1j0018
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0027-012説文解字-卷第十二上.
 <pb:KR1j0018_SBCK_012-1a>¶
 　　　&KR0003;文解字弟十二(上)漢太尉&KR0021;酒許愼¶
 　　　　　敕校定¶
@@ -156,6 +160,8 @@
 　　　　　　　文二¶
 說文解字弟十二(上)¶
 <pb:KR1j0018_SBCK_012-10b>¶
+#+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0027-012説文解字-卷第十二下.
 <pb:KR1j0018_SBCK_012-11a>¶
 說文解字弟十二(下)漢太尉祭酒許氏記¶
 　　婦人也象形王育說凡女之屬皆从女(尼吕/切)¶
@@ -333,4 +339,3 @@
 　　　　　　　　　文四　重二¶
 說文解字第十二(下)¶
 <pb:KR1j0018_SBCK_012-22a>¶
-

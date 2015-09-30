@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-10 23:06:51.336607
+#+PROPERTY: ID KR1j0018
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0027-011説文解字-卷第十一上.
 <pb:KR1j0018_SBCK_011-1a>¶
 說文解字弟十一(上)漢太尉祭酒許愼記¶
 　　二十一部　六百八十五文　重六十二¶
@@ -164,6 +168,8 @@
 　　　　　　文二十三(新附)¶
 說文解字弟十一(上)¶
 <pb:KR1j0018_SBCK_011-10b>¶
+#+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0027-011説文解字-卷第十一下.
 <pb:KR1j0018_SBCK_011-11a>¶
 　　耦一耦之伐廣尺深尺謂之&KR1457;倍&KR1457;謂之遂倍¶
 　　遂曰溝倍溝曰洫倍洫曰巜凡&KR1457;之屬皆从&KR1457;¶
@@ -286,4 +292,3 @@
 &KR0003;文解字第十一(下)¶
 <pb:KR1j0018_SBCK_011-16b>¶
 <pb:KR1j0018_SBCK_011-16b>¶
-

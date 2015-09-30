@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-10 23:06:50.934630
+#+PROPERTY: ID KR1j0018
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0027-006説文解字-卷第六上.
 <pb:KR1j0018_SBCK_006-1a>¶
 說文解字弟六(上)漢太尉祭酒許氏記¶
 　二十五部　文七百五十三　重六十一¶
@@ -148,6 +152,8 @@
 (古文/从录/椱屋棟也从林/分聲符分切/木多皃从林从木讀若/曾參之參所今切)¶
 　　　　　　文九　重一¶
 <pb:KR1j0018_SBCK_006-9b>¶
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0027-006説文解字-卷第六下.
 <pb:KR1j0018_SBCK_006-10a>¶
 (也从子論語曰色/孛如也蒲姝切/止也从&KR1832;盛而一/横止之也即里切/艸木/至南方有枝任/也从&KR1832;&KR2423;聲那含切)¶
 (古/文)文六　重一¶
@@ -284,4 +290,3 @@
 　　鄰道也从邑从　凡&KR2257;之屬皆从&KR2257;闕(胡綘切今/變隷作&KR4140;)¶
 <pb:KR1j0018_SBCK_006-17a>¶
 <pb:KR1j0018_SBCK_006-18a>¶
-

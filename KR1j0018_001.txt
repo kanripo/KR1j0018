@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-10 23:06:50.534933
+#+PROPERTY: ID KR1j0018
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0027-001説文解字-卷第一上.
 <pb:KR1j0018_SBCK_001-1a>¶
 (聲古/玩切/數&KR0021;也从示毳聲讀若舂麥爲䄟之䄟臣鉉䓁曰/舂麥爲䄟今無此語且非異文所未詳也此芮切/&KR0021;主贊/詞者从)¶
 (示从人口一曰从兌省易/曰兌爲口爲巫之六切/祝/也从示/留聲力救切/除惡祭也从示/犮聲敷勿切/求/福)¶
@@ -89,6 +93,8 @@
 　　　文三　重二¶
 &KR0003;文解字第一(上)¶
 <pb:KR1j0018_SBCK_001-6a>¶
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0027-001説文解字-卷第一下.
 <pb:KR1j0018_SBCK_001-7a>¶
 &KR0003;文解字弟一(下)漢太尉祭酒許氏記¶
 　艸木&KR0004;生也象丨出形有枝莖也古文或以¶
@@ -200,4 +206,3 @@
 <pb:KR1j0018_SBCK_001-15a>¶
 <pb:KR1j0018_SBCK_001-16a>¶
 <pb:KR1j0018_SBCK_001-17a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-10 23:06:50.771235
+#+PROPERTY: ID KR1j0018
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0027-004説文解字-卷第四上.
 <pb:KR1j0018_SBCK_004-1a>¶
 &KR0003;文解字弟四(上)漢太尉祭酒許愼記¶
 　　四十五部　文七百四十八　重百一十二¶
@@ -182,6 +186,8 @@
 <pb:KR1j0018_SBCK_004-9b>¶
 <pb:KR1j0018_SBCK_004-9b>¶
 <pb:KR1j0018_SBCK_004-9b>¶
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0027-004説文解字-卷第四下.
 <pb:KR1j0018_SBCK_004-10a>¶
 　小也象子初生之形凡幺之屬皆从幺(於堯/切)¶
 (少也从幺从/力伊謬切)文二¶
@@ -339,4 +345,3 @@
 (切谷/切/羌人所吹角屠觱以驚馬也从/角/聲盛古文誖字卑吉切)文三十九　重六¶
 <pb:KR1j0018_SBCK_004-17a>¶
 &KR0003;文解字第四(下)¶
-

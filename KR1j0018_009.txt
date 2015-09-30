@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-10 23:06:51.173557
+#+PROPERTY: ID KR1j0018
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0027-009説文解字-卷第九上.
 <pb:KR1j0018_SBCK_009-1a>¶
 說文解字弟九(上)漢太尉祭酒許愼記¶
 　四十六部　四百九十六文　重六十三¶
@@ -114,6 +118,8 @@
 　　髙不平也从山&KR0017;聲凡嵬之屬皆从嵬(五灰/切)¶
 (髙也从嵬委聲牛威切臣鉉等曰/今人省山从爲魏國之魏語韋切)文二¶
 &KR0003;文解字弟九(上)¶
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0027-009説文解字-卷第九下.
 <pb:KR1j0018_SBCK_009-9a>¶
 &KR0003;文解字第九　漢太尉祭酒許氏記¶
 　　宣也宣气&KR0652;生萬物有石而髙象形凡山之¶
@@ -248,4 +254,3 @@
 <pb:KR1j0018_SBCK_009-16a>¶
 <pb:KR1j0018_SBCK_009-17a>¶
 <pb:KR1j0018_SBCK_009-18a>¶
-
